@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @russwads
-- 👀 I’m interested in Software Engineering, flying drones, playing video games, and going to amusement parks, especially Disney.
-- 🌱 I’m currently learning operating system theory, network architecture, C#, C++, and other software engineering musts at UVU.
-- 💞️ I’m looking to collaborate on professional programs. Hoping to get into the industry!
+- 👀 I’m interested in Software Engineering, flying drones, playing video games, and going to amusement parks.
+- 🌱 I’m currently learning operating system theory, network architecture, and other software engineering classes at UVU.
+- 💞️ I’m looking to expand my portfolio with professional experience at my current job.
 - 📫 How to reach me ... russellwadsworth3672@gmail.com
 
 <!---
